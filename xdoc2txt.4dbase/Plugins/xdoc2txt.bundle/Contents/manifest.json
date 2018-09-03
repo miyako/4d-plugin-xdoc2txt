@@ -1,0 +1,11 @@
+{
+	"name": "xdoc2txt",
+	"id": 20000,
+	"commands": [
+		{
+			"theme": "xdoc2txt",
+			"syntax": "xdoc2txt(&T;&T;&T):T",
+			"threadSafe": true
+		}
+	]
+}
