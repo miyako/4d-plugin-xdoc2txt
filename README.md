@@ -22,5 +22,5 @@ text:=xdoc2txt (path;option;props)
 Parameter|Type|Description
 ------------|------------|----
 path|TEXT|
-option|TEXT|
+option|TEXT|``-r -o -g -x``
 props|TEXT|
